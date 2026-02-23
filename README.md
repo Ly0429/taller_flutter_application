@@ -1,7 +1,13 @@
 # taller_flutter_application
 
-A new Flutter project.
+## Descripción
+Este proyecto consiste en una aplicación básica desarrollada con Flutter como parte de la primera semana del taller.
+La aplicación incluye la estructura principal de un proyecto Flutter y está configurada para ejecutarse en Android, iOS y Web.
 
+## Tecnologías utilizadas
+- Flutter
+- Dart
+  
 ## Getting Started
 
 This project is a starting point for a Flutter application.
